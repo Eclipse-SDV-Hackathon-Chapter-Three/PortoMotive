@@ -3,7 +3,7 @@
 # 1. Your Team at a Glance
 
 ## Team Name / Tagline  
-PortoMotive
+PortoMotive / "Use Balls to save your life"
 
 ## Team Members  
 |      Name      | GitHub Handle | Role(s) |
