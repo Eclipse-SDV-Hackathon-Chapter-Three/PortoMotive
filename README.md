@@ -50,6 +50,8 @@ If no adjacent lane is available, the car will prepare for the collision by unlo
 
 *Sketch something that helps understand e.g. mermaid chart*
 
+![alt text](https://quickshare.samsungcloud.com/x7dfCe5Ebsjw)
+
 ---
 
 # 2. How Do You Work
